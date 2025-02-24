@@ -1,1 +1,1 @@
-# nnprediction-breastcancer
+# neural network project
